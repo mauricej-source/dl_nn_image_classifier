@@ -1,1 +1,2 @@
-# image_classifier_part_1
+Udacity Project 
+Part 1:  A Deep Learning Neural Network Image Classifier
